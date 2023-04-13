@@ -1,6 +1,6 @@
 # proyecto_videomarcador_angular
 videomarcador creado con angular
-
+---
 P01proyecto
 This project was generated with Angular CLI: 15.2.6
 
@@ -21,3 +21,4 @@ Run ng e2e to execute the end-to-end tests via a platform of your choice. To use
 
 Further help
 To get more help on the Angular CLI use ng help or go check out the Angular CLI Overview and Command Reference page.
+---
