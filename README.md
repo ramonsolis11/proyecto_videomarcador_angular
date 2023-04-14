@@ -1,4 +1,9 @@
-# P06proyecto
+# P01proyecto
+
+![image](https://user-images.githubusercontent.com/80738178/231943527-625f6854-9ee7-46dc-af6f-150c3d8fea76.png)
+
+![image](https://user-images.githubusercontent.com/80738178/231943591-b8c4c6ea-ed39-468e-99ae-fd43cd5a4ce3.png)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
 
